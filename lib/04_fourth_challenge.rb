@@ -5,8 +5,9 @@ def fourth_challenge
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
-        #your hashes here!
+      {name: "Nurse", age: "44", attitude: "worried"}
       ]
+    }
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
